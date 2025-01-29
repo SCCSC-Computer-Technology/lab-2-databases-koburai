@@ -1,0 +1,12 @@
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell CPT 206 A80S Lab 2\bin\Debug\CityDB.mdf
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell CPT 206 A80S Lab 2\bin\Debug\CityDB_log.ldf
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell CPT 206 A80S Lab 2\bin\Debug\A Waddell CPT 206 A80S Lab 2.exe.config
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell CPT 206 A80S Lab 2\bin\Debug\A Waddell CPT 206 A80S Lab 2.exe
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell CPT 206 A80S Lab 2\bin\Debug\A Waddell CPT 206 A80S Lab 2.pdb
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell CPT 206 A80S Lab 2\obj\Debug\A Waddell CPT 206 A80S Lab 2.csproj.AssemblyReference.cache
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell CPT 206 A80S Lab 2\obj\Debug\A_Waddell_CPT_206_A80S_Lab_2.Properties.Resources.resources
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell CPT 206 A80S Lab 2\obj\Debug\A Waddell CPT 206 A80S Lab 2.csproj.GenerateResource.cache
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell CPT 206 A80S Lab 2\obj\Debug\A Waddell CPT 206 A80S Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell CPT 206 A80S Lab 2\obj\Debug\A Waddell CPT 206 A80S Lab 2.exe
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell CPT 206 A80S Lab 2\obj\Debug\A Waddell CPT 206 A80S Lab 2.pdb
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell CPT 206 A80S Lab 2\obj\Debug\A_Waddell_CPT_206_A80S_Lab_2.Main.resources
